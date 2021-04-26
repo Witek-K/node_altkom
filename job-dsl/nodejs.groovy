@@ -16,6 +16,6 @@ job ('nodejs job')
     }
 
     steps {
-        shell('node app.js')
+        shell('npm test')
     }
 }
