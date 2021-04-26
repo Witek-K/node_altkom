@@ -1,3 +1,4 @@
+console.log('app2')
 console.log('altkom spoko')
 console.log('przetwarzam dane')
 console.log('liczę....')
